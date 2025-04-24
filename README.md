@@ -1,7 +1,5 @@
 # Принтер HP Laser 135A
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 - [Принтер](#printer)
     - [1.1 Тип пристрою](#тип)
     - [1.2 Фото пристрою](#2.)
